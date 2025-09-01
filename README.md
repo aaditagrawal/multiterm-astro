@@ -1,8 +1,8 @@
-# MultiTerm Astro 🎨⚡️
+# The CoolStuff Blog 🎨⚡️
 
-**MultiTerm** is an Astro blog theme designed for coders who love their color schemes. Easily theme your whole website with your favorite color schemes and have your prose rendered with a nod to the aesthetics of raw markdown.
+**The CoolStuff Blog** is an Astro blog theme designed for coders who love their color schemes. Easily theme your website with your favorite color schemes and have your prose rendered with a nod to the aesthetics of raw markdown.
 
-Check out the live example site [here](https://multiterm.stelclementine.com)!
+Check out the live example site [here](https://blog.coolstuff.work)!
 
 > v2.0.0 has been released! 🥳
 
@@ -21,21 +21,21 @@ Check out the live example site [here](https://multiterm.stelclementine.com)!
 - **Multiple Theme Mode**: Choose three (or all 59!) Shiki themes and allow your reader to choose their favorite from a dialog menu opened from a button in the header. Every element seamlessly changes color interactively using the magic of CSS variables.
 - **GitHub Comment Section**: Allow readers to respond, discuss, and react with a comment section powered by GitHub and [Giscus](https://giscus.app). Painstakingly themed to match your site perfectly.
 - **GitHub Activity Widget**: Optionally include a statically generated GitHub activity calendar on the homepage that (of course) matches the active color scheme perfectly.
-- **Markdown Extensions**: Admonitions, auto-generated TOC that sticks to the side on large screens, emoji shortcodes, KaTeX math, MDX, and reading time estimates. See the example site's [Showing Off Blog Features](https://multiterm.stelclementine.com/posts/showing-off-blog-features) post.
+- **Markdown Extensions**: Admonitions, auto-generated TOC that sticks to the side on large screens, emoji shortcodes, KaTeX math, MDX, and reading time estimates. See the example site's [Showing Off Blog Features](https://blog.coolstuff.work/posts/showing-off-blog-features) post.
 - **RSS Feed and Sitemap**: Built-in support for RSS feeds and sitemap with no extra configuration.
-- **Social Links**: Easily include links to common developer platforms including GitHub, Mastodon, Twitter, LinkedIn and E-mail.
+- **Social Links**: Easily include links to common developer platforms including GitHub, LinkedIn and E-mail.
 - **Responsive Design**: Optimized for all devices from desktops to mobile phones. Built with [Tailwind v4](https://tailwindcss.com/).
 - **SEO Optimized**: Boost your site's visibility with built-in SEO best practices and automatically generated social card images for every page via [Satori](https://github.com/vercel/satori).
 - **Customizable Build**: Powered by [Astro](https://astro.build/), render as a static site (the default) or generate content dynamically.
 
-Check out the example site [PageSpeed scores](https://pagespeed.web.dev/analysis/https-multiterm-stelclementine-com/qhnp521yci?form_factor=mobile) and [OpenGraph analysis](https://www.opengraph.xyz/url/https%3A%2F%2Fmultiterm.stelclementine.com)
+Check out the example site [PageSpeed scores](https://pagespeed.web.dev/analysis/https-blog-coolstuff-work/qhnp521yci?form_factor=mobile) and [OpenGraph analysis](https://www.opengraph.xyz/url/https%3A%2F%2Fblog.coolstuff.work)
 
 ## 🚀 Getting Started
 
 **Clone the Repository**:
 
 ```bash
-git clone --depth 1 https://github.com/stelcodes/multiterm-astro my-new-blog && cd my-new-blog
+git clone --depth 1 https://github.com/aaditagrawal/aaditagrawal my-new-blog && cd my-new-blog
 ```
 
 **Install Dependencies**:
@@ -58,7 +58,7 @@ npm run build && npm run preview
 
 ## 🛠️ Configuration
 
-Simple configuration is a core feature of MultiTerm. All configuration is done from a single file: `src/site.config.ts`. This is where you can tailor your website to match your vision.
+Simple configuration is a core feature of The CoolStuff Blog. All configuration is done from a single file: `src/site.config.ts`. This is where you can tailor your website to match your vision.
 
 Please take a look at `src/site.config.ts` for more information about the configuration options.
 
@@ -75,7 +75,7 @@ This project is licensed under the [MIT License](LICENSE.txt).
 
 ## 🩷 Sponsor
 
-Consider [buying me a coffee](https://ko-fi.com/stelclementine) to keep me caffeinated while I work on open source projects like this one!
+If you find this project helpful, consider supporting open source development!
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=stelcodes/multiterm-astro&type=Date)](https://www.star-history.com/#stelcodes/multiterm-astro&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=aaditagrawal/aaditagrawal&type=Date)](https://www.star-history.com/#aaditagrawal/aaditagrawal&Date)

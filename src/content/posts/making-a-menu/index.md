@@ -1,5 +1,5 @@
 ---
-title: 'Showing Off Blog Features'
+title: 'Making a menu'
 published: 2025-07-20
 draft: false
 tags: ['astro', 'demo', 'markdown']
